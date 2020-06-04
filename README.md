@@ -11,10 +11,11 @@ Datasets, in csv formats, for the asset classes we analyse are in the folder "Da
 Table_02 is a jupyter notebook that replicates Table 2 in the published paper. 
 
 ## Cite as 
-
-@article{baba:boons:tamoni:2019,<br/>
-  title={Value return predictability across asset classes and commonalities in risk premia},<br/>
-  author={Baba-Yara, Fahiz and Boons, Martijn and Tamoni, Andrea},<br/>
-  journal={Review of Finance (Forthcoming)},<br/>
-  year={2019}<br/>
+```
+@article{baba:boons:tamoni:2019,
+  title={Value return predictability across asset classes and commonalities in risk premia},
+  author={Baba-Yara, Fahiz and Boons, Martijn and Tamoni, Andrea},
+  journal={Review of Finance (Forthcoming)},
+  year={2019}
 }  
+```
