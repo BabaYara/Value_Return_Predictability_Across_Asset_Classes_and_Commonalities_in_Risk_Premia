@@ -8,7 +8,11 @@ We show that returns to value strategies in individual equities, industries, com
 
 @article{baba:boons:tamoni2019,
   title={Value return predictability across asset classes and commonalities in risk premia},
+  
   author={Baba-Yara, Fahiz and Boons, Martijn and Tamoni, Andrea},
+  
   journal={Review of Finance (Forthcoming)},
+  
   year={2019}
+  
 }
