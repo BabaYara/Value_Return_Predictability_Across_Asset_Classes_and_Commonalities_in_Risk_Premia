@@ -15,7 +15,7 @@ Table_02 is a jupyter notebook that replicates Table 2 in the published paper.
 @article{baba:boons:tamoni:2019,
   title={Value return predictability across asset classes and commonalities in risk premia},
   author={Baba-Yara, Fahiz and Boons, Martijn and Tamoni, Andrea},
-  journal={Review of Finance (Forthcoming)},
+  journal={Review of Finance, (forthcoming)},
   year={2019}
 }  
 ```
